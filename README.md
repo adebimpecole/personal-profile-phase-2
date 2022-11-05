@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/adebimpecole/profile.git)
+- Solution URL: [Add solution URL here](https://github.com/adebimpecole/personal-profile-phase-2.git)
 - Live Site URL: [Add live site URL here](https://soft-eclair-07ffdb.netlify.app/contact)
 
 ## My process
